@@ -1,1 +1,1 @@
-include ':app', ':studio', ':HD_studio'
+include ':app', ':HD_studio'

@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/HD_Studio.iml" filepath="$PROJECT_DIR$/HD_Studio.iml" />
       <module fileurl="file://$PROJECT_DIR$/HD_studio/HD_studio.iml" filepath="$PROJECT_DIR$/HD_studio/HD_studio.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/studio/studio.iml" filepath="$PROJECT_DIR$/studio/studio.iml" />
     </modules>
   </component>
 </project>
